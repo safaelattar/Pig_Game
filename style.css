@@ -231,6 +231,16 @@ main {
   html {
     font-size: 50%;
   }
+    .modal {
+    width: 45rem;
+  }
+  .modal h2 {
+    margin-bottom: 30px;
+  }
+  .modal p {
+    margin-bottom: 2.5rem;
+    font-size: 1.7rem;
+  }
   main {
     flex-direction: column;
     width: 40rem;
